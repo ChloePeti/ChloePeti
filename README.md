@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChloePeti
 - 👀 I’m interested in Analytics 
 - 🌱 I’m currently learning SQL and more data processing and visualization tools
-- ⚡ Fun fact: I grew up on a ranch in Colorado!
+- ⚡ Fun fact: My graduating class in high school was under 50 people!
 
 <!---
 ChloePeti/ChloePeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
